@@ -1,6 +1,6 @@
 ![retro](https://github.com/aftermath1302/aftermath1302/blob/main/profile.gif)
 # 💫About Me :
-Saiyam | 18 | Aspiring Software Engineer<br />
+Saiyam | 19 | Aspiring Software Engineer<br />
 Focused on C++, system customization, building a 3D portfolio.<br />
 Exploring Linux, future tech, and learning Japanese on the side.<br />
 
